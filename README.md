@@ -7,3 +7,6 @@ Below is a high level on how the services will be registered to the naming-serve
 
 ### Server URL
 This service will run under 8100 port: http://localhost:8100
+
+### Consuming the API
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/1000
